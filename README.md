@@ -1,10 +1,10 @@
 ### Description
 
-A simple portfolio template for developer/designers built with HTML, CSS, Javascript. 
-
-### [Live Preview](https://shrawaanthapa.github.io/John-Portfolio/)
-
-[![react portfoiio](src/assets/images/react%20portfolio%20gif.gif)](https://ubaimutl.github.io/react-portfolio/)
+- Responsive Personal Portfolio Website HTML CSS & JavaScript.
+- Contains animations when scrolling.
+- Smooth scrolling in each section.
+- Developed first with the Mobile First methodology, then for desktop.
+- Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 ### Features
 
@@ -14,24 +14,20 @@ A simple portfolio template for developer/designers built with HTML, CSS, Javasc
 - CSS Bootstrap
 - Edit Content From One Place
 
-### Setup
+### [Live Preview](https://shrawaanthapa.github.io/John-Portfolio/)
+### [YouTube](https://youtu.be/wvVcWgc83FE)
 
-Get the code
+### Tutorial Video
+[Instagram](https://www.instagram.com/sharwaan.thapa/)
 
-<pre>git clone https://github.com/ubaimutl/react-portfolio.git</pre>
- 
-Install required dependencies
+[Facebook](https://www.facebook.com/sharwaan.official)
 
-<pre>yarn install</pre>
+[Channel](https://www.youtube.com/sharwaan_thapa)
 
+### Web Developing 
+[Shrawaan Thapa](https://x.com/sharwaan_thapa)
 
-Start the server
-
-<pre>yarn start</pre>
-
-### More
-
-Modify pages content in  `src/content_option.js`.
+![preview img]()
 
 ### Thanks
 
