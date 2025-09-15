@@ -28,6 +28,8 @@
 
 - [Channel](https://www.youtube.com/sharwaan_thapa)
 
+<p align="center">Preview Pictures</p>
+
 ![preview img](/preview.png)
 
 If you like this portfolio template don't forget give it a ⭐ 
