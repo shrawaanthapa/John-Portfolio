@@ -1,4 +1,4 @@
-The MIT License (MTI)
+The MIT License (MIT)
 
 Copyright (c) 2025 Sharwaan (https://shrawaanthapa.github.io/John-Portfolio/)
 
