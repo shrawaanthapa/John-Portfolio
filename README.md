@@ -17,18 +17,18 @@
 ### [Live Preview](https://shrawaanthapa.github.io/John-Portfolio/)
 ### [YouTube](https://youtu.be/wvVcWgc83FE)
 
-### Tutorial Video
+### Tutorial Video...👀
 [Instagram](https://www.instagram.com/sharwaan.thapa/)
 
 [Facebook](https://www.facebook.com/sharwaan.official)
 
 [Channel](https://www.youtube.com/sharwaan_thapa)
 
-### Web Developing 
-[Shrawaan Thapa](https://x.com/sharwaan_thapa)
+### Web Developing By....🔍
+[Shrawaan Thapa](https://github.com/shrawaanthapa)
 
 ![preview img]()
 
-### Thanks
+### Thanks..🙏
 
 If you like this portfolio template don't forget give it a ⭐ 
